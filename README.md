@@ -1,4 +1,4 @@
-## 🌐 Connect with me:
+##  Connect with me:
 <p align="left">
   <a href="https://www.linkedin.com/in/mustafa-ashraf-600857375" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://discord.gg/KpcCzCdq" target="blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
@@ -13,7 +13,7 @@
 
 ---
 
-## 🛠️ Skills I'm Learning: 
+##  Skills I'm Learning: 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" alt="Bash"/>
