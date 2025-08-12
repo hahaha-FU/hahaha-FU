@@ -1,7 +1,6 @@
-<!-- Profile Header -->
-<h3 align="center">angr hacker.</h3>
-
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/hahaha-FU/hahaha-FU/main/assets/typing.svg" alt="Angry Hacker | Exploit Maker animation" />
+</div>
 
 ##  Connect with me:
 <p align="left">
