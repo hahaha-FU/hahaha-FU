@@ -41,4 +41,10 @@
 
 ---
 
+<h2 align="center"> Most Used Languages </h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hahaha-FU&layout=compact&theme=dark&langs_count=8" alt="Top Langs" />
+</p>
+
 
